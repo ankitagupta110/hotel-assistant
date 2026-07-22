@@ -174,8 +174,8 @@ POST /chat
 - `How does the hotel ensure hygiene?`
 - `Book a room for tomorrow`
 - `Book a deluxe room for tomorrow. Name is Ankita Gupta, email ankita@gmail.com, phone 9876543210.`
-- `Show my booking <reservation-id>`
-- `Cancel reservation <reservation-id>`
+- `Show my booking <fd93069b-a02f-46e2-b767-49c17178f360>`
+- `Cancel reservation <fd93069b-a02f-46e2-b767-49c17178f360>`
 
 ## Tests
 
@@ -217,4 +217,4 @@ hotel-assistant/
     ├── llm.py
     └── logger.py
 ```
-# hotel-assistant
+# hotel-assistant demo Link : https://drive.google.com/file/d/1B1d8G9e5wPAOt1k2jiL7TiJOD5PvHUDF/view?usp=drive_link
